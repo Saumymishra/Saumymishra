@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saumy Mishra</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 
-- 🔭 I’m currently working on **BrainBoost**
+- 🔭 I’m currently working as a intern at **Ikipendence**
 
 - 🌱 I’m currently learning **Node.js, Express**
 
